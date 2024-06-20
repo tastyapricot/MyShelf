@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">My Shelf</string>
+
+    <string name="thriller">Триллер</string>
+    <string name="romance">Романтика</string>
+    <string name="fiction">Фантастика</string>
+    <string name="fantasy">Фэнтези</string>
+    <string name="science">Научная литература</string>
+    <string name="detective">Детектив</string>
+    <string name="history">История</string>
+    <string name="adventure">Приключения</string>
+    <string name="horror">Ужасы</string>
+    <string name="biography">Биография</string>
+    <string name="search">Поиск</string>
+    <string name="genres">Жанры</string>
+    <string name="add_genre">Добавить жанр</string>
+    <string name="back">Назад</string>
+    <string name="delete">Удалить</string>
+    <string name="book_title_empty_error">Название книги не может быть пустым</string>
+    <string name="book_author_empty_error">Автор книги не может быть пустым</string>
+    <string name="book_description_empty_error">Описание книги не может быть пустым</string>
+    <string name="genre_name_empty_error">Название жанра не может быть пустым</string>
+    <string name="new_book">Новая книга</string>
+    <string name="book_title_label">Название</string>
+    <string name="book_author_label">Автор</string>
+    <string name="book_description_label">Описание</string>
+    <string name="select_genre_label">Жанр</string>
+    <string name="select_genre">Выберите жанр</string>
+    <string name="genre">Жанр</string>
+    <string name="save">Сохранить</string>
+    <string name="add_book">Добавить книгу</string>
+    <string name="books">Книги</string>
+    <string name="menu">Меню</string>
+    <string name="new_genre">Новый жанр</string>
+    <string name="genre_name">Название жанра</string>
+    <string name="edit_genre">Редактировать жанр</string>
+    <string name="edit_genre_title">Редактирование жанра</string>
+    <string name="genre_empty_error">Жанр не выбран</string>
+    <string name="edit_book_title">Редактирование книги</string>
+</resources>
